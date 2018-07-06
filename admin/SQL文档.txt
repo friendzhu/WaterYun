@@ -1,5 +1,3 @@
-﻿
-select getdate()
+﻿select getdate()
 select 1;
 select 2;
-
